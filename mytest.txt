@@ -32,3 +32,10 @@ from HTTPClient import NVPair
 #from com.netease.qaperf.nvs.api.time import PingServer
 from org.python.core.util import StringUtil
 from com.alibaba.fastjson import JSON
+
+this is commit5
+
+ISOTIMEFORMAT='%Y-%m-%d %X'
+
+processNum = int(grinder.getProperties().get('grinder.processes'))
+threadNum = int(grinder.getProperties().get('grinder.threads'))
