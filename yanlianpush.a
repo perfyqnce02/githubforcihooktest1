@@ -11,4 +11,8 @@ h
 gj
 yu
 
+this is commit2
+git clone git@github.com:FBing/design-patterns.git
+$ git branch
+* master
 
